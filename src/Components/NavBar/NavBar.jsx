@@ -14,7 +14,7 @@ const ResponsiveNavbar = () => {
   return (
     <Navbar variant="light" expand="lg" className="navbar">
         <Container>
-        <Navbar.Brand href="/">
+        <Navbar.Brand href="/BellyTreats-Food-Delivery">
         <div className='logo'>
         <img src={BTlogo} alt="" style={{width:"100%"}} />
         </div> 
@@ -30,9 +30,9 @@ const ResponsiveNavbar = () => {
           </Offcanvas.Header>
           <Offcanvas.Body>
             <Nav className="justify-content-end flex-grow-1 pe-3">
-              <Nav.Link href="#home" className='mx-4 px-4'>Home</Nav.Link>
-              <Nav.Link href="#about" className='mx-4 px-4'>Log-In</Nav.Link>
-              <Nav.Link href="#contact" className='mx-4 px-4'>Sign Up</Nav.Link>
+              <Nav.Link href="/BellyTreats-Food-Delivery" className='mx-4 px-4'>Home</Nav.Link>
+              <Nav.Link href="#login" className='mx-4 px-4'>Log-In</Nav.Link>
+              <Nav.Link href="#signup" className='mx-4 px-4'>Sign Up</Nav.Link>
               <NavDropdown
               title=" Prefered Food Type"
               id="collasible-nav-dropdown"
