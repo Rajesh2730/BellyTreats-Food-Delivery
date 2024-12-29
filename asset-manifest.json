@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BellyTreats-Food-Delivery/static/css/main.68832aa5.css",
-    "main.js": "/BellyTreats-Food-Delivery/static/js/main.0d25ff4f.js",
+    "main.css": "/BellyTreats-Food-Delivery/static/css/main.4ad57d6c.css",
+    "main.js": "/BellyTreats-Food-Delivery/static/js/main.e33efce9.js",
     "static/media/Veg.png": "/BellyTreats-Food-Delivery/static/media/Veg.1684fc71ddb0a0991cc9.png",
     "static/media/Bellytreats-bg.png": "/BellyTreats-Food-Delivery/static/media/Bellytreats-bg.e3fc3c15f1ece4f56e64.png",
     "static/media/non-veg.jpg": "/BellyTreats-Food-Delivery/static/media/non-veg.7712d905d7e78db5377c.jpg",
     "index.html": "/BellyTreats-Food-Delivery/index.html",
-    "main.68832aa5.css.map": "/BellyTreats-Food-Delivery/static/css/main.68832aa5.css.map",
-    "main.0d25ff4f.js.map": "/BellyTreats-Food-Delivery/static/js/main.0d25ff4f.js.map"
+    "main.4ad57d6c.css.map": "/BellyTreats-Food-Delivery/static/css/main.4ad57d6c.css.map",
+    "main.e33efce9.js.map": "/BellyTreats-Food-Delivery/static/js/main.e33efce9.js.map"
   },
   "entrypoints": [
-    "static/css/main.68832aa5.css",
-    "static/js/main.0d25ff4f.js"
+    "static/css/main.4ad57d6c.css",
+    "static/js/main.e33efce9.js"
   ]
 }
