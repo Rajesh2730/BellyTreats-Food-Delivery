@@ -1,0 +1,9 @@
+.logo{
+    width: 15%;
+}
+.navbar{
+    background-color: white;
+    height: 8vh;
+    box-shadow: 2px 2px 25px 2px grey ;
+    padding: 3%;
+}
