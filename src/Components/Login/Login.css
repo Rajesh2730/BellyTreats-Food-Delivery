@@ -1,0 +1,23 @@
+/* Modal Styles */
+  .modal-footer {
+    background-color: #f8f9fa;
+  }
+  
+  .modal-body button {
+    font-weight: 500;
+  }
+  
+  .modal-footer a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .modal-footer a:hover {
+    text-decoration: underline;
+  }
+  .f-int:focus{
+    box-shadow: none !important;
+    outline: none !important;
+    border-color: grey !important;
+  }
+  

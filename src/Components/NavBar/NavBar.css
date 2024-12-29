@@ -1,9 +1,58 @@
-.logo{
-    width: 15%;
-}
-.navbar{
+.logo {
+    width: 25%;
+  }
+  
+  .navbar {
     background-color: white;
-    height: 8vh;
-    box-shadow: 2px 2px 25px 2px grey ;
-    padding: 3%;
-}
+    box-shadow: 2px 2px 25px 2px grey;
+  }
+  
+  .title{
+    display: none;
+  }
+  .custom-toggle {
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    background-color: transparent !important;
+  }
+  
+  .custom-toggle:focus {
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+  }
+  
+  .logo-body{
+    width: 25%;
+  }
+
+  
+  /* Media Queries */
+  @media screen and (max-width: 786px) {
+    .logo-tab {
+      width: 30%;
+    }
+    .logo-body {
+      width: 10%;
+    }
+    .logo{
+      width: 100%;
+    }
+    .title{
+      display: block;
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+    .logo-body {
+      width: 10%;
+    }
+    .logo {
+      width: 130%;
+    }
+    .title{
+      display: block;
+    }
+  }
+  

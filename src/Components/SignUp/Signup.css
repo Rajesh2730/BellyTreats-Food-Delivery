@@ -1,0 +1,11 @@
+.f-int:focus{
+    box-shadow: none !important;
+    outline: none !important;
+    border-color: grey !important;
+  }
+  .eye{
+    position: absolute;
+    top: 70%;
+    right: 0;
+    height: 38px;
+  }
